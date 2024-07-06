@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To My Queen</title>
+    <style>
+        body {
+            background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            position: relative;
+            overflow: hidden;
+        }
+        .container {
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            width: 100%;
+            text-align: center;
+            position: relative;
+            z-index: 1;
+        }
+        h1 {
+            color: #333;
+            font-size: 36px;
+            margin-top: 0;
+            font-family: 'Arial', sans-serif;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        .heart {
+            color: #e74c3c; /* Alizarin */
+            font-size: 24px;
+        }
+        .background-emojis {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            z-index: 0;
+        }
+        .background-emojis span {
+            position: absolute;
+            opacity: 0.2;
+            font-size: 50px;
+            animation: float 10s infinite;
+        }
+        @keyframes float {
+            from {
+                transform: translateY(0);
+            }
+            to {
+                transform: translateY(-100vh);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="background-emojis">
+        <span style="top: 20%; left: 10%;">🎂</span>
+        <span style="top: 40%; left: 20%;">🎉</span>
+        <span style="top: 60%; left: 30%;">🎁</span>
+        <span style="top: 80%; left: 40%;">❤️</span>
+        <span style="top: 10%; left: 50%;">🎂</span>
+        <span style="top: 30%; left: 60%;">🎉</span>
+        <span style="top: 50%; left: 70%;">🎁</span>
+        <span style="top: 70%; left: 80%;">❤️</span>
+        <span style="top: 90%; left: 90%;">🎂</span>
+    </div>
+    <div class="container">
+        <h1>To My Queen 🎉🎂❤️</h1>
+        <p>Happy Birthday to the most incredible woman in my life! 🎉🎂 I feel so fortunate to celebrate this special day with you and to have the opportunity to shower you with love and surprises. 💖</p>
+        <p>I still remember how we met back in 2021 at school. 🏫 It wasn't until 2023, in our last year, that I really got to know you. Our last exam, where fate placed us side by side, was when I started catching feelings for you. 💘 Little did I know then that you would become such an important part of my life.</p>
+        <p>One of my favorite moments with you was that early morning when you called just to ask how I was doing. ☀️📞 It was such a simple gesture, but it showed how much you care. Another special memory is our first date at your house, filled with hugs and kisses that made me feel so loved. 💏 More recently, when I visited your house and watched you kneel down to pour me water, I couldn’t help but imagine a future where we are married, living together as husband and wife. 🏠❤️</p>
+        <p>There are so many qualities I admire about you. You're loving, caring, supportive, and truly wife material. 💍 You understand me when no one else can and are always there for me in every situation. I can't express enough how much I appreciate all that you do. 🙏</p>
+        <p>While we don't have a lot of funny memories together, one that stands out is from our first date. When you kissed me and then taught me how a kiss shouldn't have a sound, I couldn't stop laughing. 😂 I remember practicing kissing on my room wall so that next time I wouldn't make a sound. It's these little moments that bring so much joy to my life. 😄</p>
+        <p>We have faced challenges, like our breakup on December 26, 2023. 💔 But our love was too strong to keep us apart, and on June 11, 2024, we reconciled. 💞 It showed me how much we truly mean to each other and how supportive you are through thick and thin.</p>
+        <p>Looking to the future, I hope to spend the rest of my life with you. I see us getting married, you being the mother of our children, and supporting each other through every stage of life. 👪 My future feels bright because I see you in it, by my side. 🌟</p>
+        <p>Your love means the world to me. 🌎 You've shown me what true love is and cared for me in ways I never knew possible. ❤️ You've brought so much joy and warmth into my life, making every day brighter just by being in it. Your kindness, patience, and unwavering support have helped me through tough times, and your laughter and love have filled my heart with happiness. With you, I've learned the meaning of love and how beautiful it can be. 💕</p>
+        <p>I am endlessly grateful for your presence in my life. You've become my confidant, my partner, and my greatest supporter. Your love has been a guiding light, helping me become a better person. Every moment with you feels like a precious gift, and I cherish the way you make me feel loved and understood. You're the person I turn to in times of need, the one who knows me better than anyone else. Your love is my strength, my solace, and my joy. The way you brighten up my life, the way you make me feel so special, is something I cherish deeply. Your smile, your laughter, and your unwavering support have made my life so much richer and happier. I can't imagine my life without you, and I am grateful every day for the love we share.</p>
+        <p>As I think about our journey, these lyrics come to mind:</p>
+        <p><em>
+            Well, I found a woman, stronger than anyone I know <br>
+            She shares my dreams, I hope that someday I'll share her home <br>
+            I found a love, to carry more than just my secrets <br>
+            To carry love, to carry children of our own <br>
+            We are still kids, but we're so in love <br>
+            Fighting against all odds <br>
+            I know we'll be alright this time <br>
+            Darling, just hold my hand <br>
+            Be my girl, I'll be your man <br>
+            I see my future in your eyes <br><br>
+            Baby, I'm dancing in the dark, with you between my arms <br>
+            Barefoot on the grass, listening to our favorite song <br>
+            When I saw you in that dress, looking so beautiful <br>
+            I don't deserve this, darling, you look perfect tonight <br><br>
+            Baby, I'm dancing in the dark, with you between my arms <br>
+            Barefoot on the grass, listening to our favorite song <br>
+            I have faith in what I see <br>
+            Now I know I have met an angel in person <br>
+            And she looks perfect <br>
+            I don't deserve this <br>
+            You look perfect tonight
+        </em></p>
+        <p>On your birthday, I wish you a merry and happy day, filled with joy and love. 🎊🥳 I hope for many more birthdays to come, and I look forward to the day when we'll celebrate it in our own home, as husband and wife. 🏡💖</p>
+        <p>With all my love,<br><span style="font-family: 'Arial', sans-serif; color: #e74c3c;">BabyBae <span class="heart">❤️</span></span></p>
+    </div>
+</body>
+</html>
